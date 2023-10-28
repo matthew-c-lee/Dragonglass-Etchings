@@ -1,80 +1,10 @@
 ---
 share: "true"
 ---
-
-
-**  
-- [[#The Federation of Pirates|The Federation of Pirates]]
-- [[#Uorarity|Uorarity]]
-- [[#Celestni|Celestni]]
-- [[#Dunguen|Dunguen]]
-- [[#Stellst Coalition|Stellst Coalition]]
-	- [[#Stellst Coalition#Gween|Gween]]
-	- [[#Stellst Coalition#Rishtin|Rishtin]]
-	- [[#Stellst Coalition#Xiliander|Xiliander]]
-	- [[#Stellst Coalition#Ihln|Ihln]]
-	- [[#Stellst Coalition#Piloy|Piloy]]
-- [[#Kingdom of Luminos|Kingdom of Luminos]]
-	- [[#Kingdom of Luminos#Flerl|Flerl]]
-	- [[#Kingdom of Luminos#Zinst|Zinst]]
-	- [[#Kingdom of Luminos#Zelenthia|Zelenthia]]
-	- [[#Kingdom of Luminos#Kulltetress|Kulltetress]]
-- [[#Katen Empire|Katen Empire]]
-	- [[#Katen Empire#Umbrembor|Umbrembor]]
-	- [[#Katen Empire#Hejka|Hejka]]
-- [[#Voltaire|Voltaire]]
-- [[#Adefan|Adefan]]
-- [[#Nuin|Nuin]]
-- [[#Coalition of Yusefore|Coalition of Yusefore]]
-	- [[#Coalition of Yusefore#Elemdusk|Elemdusk]]
-	- [[#Coalition of Yusefore#Kjarin|Kjarin]]
-	- [[#Coalition of Yusefore#Qren|Qren]]
-- [[#Mushin|Mushin]]
-- [[#Olark|Olark]]
-- [[#Relik|Relik]]
-- [[#Duston|Duston]]
-- [[#Nine Blessings|Nine Blessings]]
-	- [[#Nine Blessings#Blessing of Nature AKA “Pheona”|Blessing of Nature AKA “Pheona”]]
-	- [[#Nine Blessings#Blessing of Strength AKA “Caztia”|Blessing of Strength AKA “Caztia”]]
-	- [[#Nine Blessings#Blessing of the Elements AKA “Bades”|Blessing of the Elements AKA “Bades”]]
-	- [[#Nine Blessings#Blessing of Love AKA “Thyena”|Blessing of Love AKA “Thyena”]]
-	- [[#Nine Blessings#Blessing of Magic AKA “Enir”|Blessing of Magic AKA “Enir”]]
-	- [[#Nine Blessings#Blessing of Tranquility AKA “Olenna”|Blessing of Tranquility AKA “Olenna”]]
-	- [[#Nine Blessings#Blessing of Wisdom AKA “Disyn”|Blessing of Wisdom AKA “Disyn”]]
-	- [[#Nine Blessings#Blessing of Spirits AKA “Phoean”|Blessing of Spirits AKA “Phoean”]]
-	- [[#Nine Blessings#Blessing of Justice AKA “Rivarus”|Blessing of Justice AKA “Rivarus”]]
-- [[#THE UNKNOWN|THE UNKNOWN]]
-	- [[#THE UNKNOWN#Divine Perplexity of War AKA “Sulos”|Divine Perplexity of War AKA “Sulos”]]
-	- [[#THE UNKNOWN#Divine Perplexity of Order AKA “Luien”|Divine Perplexity of Order AKA “Luien”]]
-	- [[#THE UNKNOWN#Divine Perplexity of Light AKA “Helio”|Divine Perplexity of Light AKA “Helio”]]
-- [[#Nine Terrors|Nine Terrors]]
-	- [[#Nine Terrors#Terror of Death AKA “Veddohr”|Terror of Death AKA “Veddohr”]]
-	- [[#Nine Terrors#Terror of Chaos AKA “Thogdall”|Terror of Chaos AKA “Thogdall”]]
-	- [[#Nine Terrors#Terror of Hate AKA “Bara”|Terror of Hate AKA “Bara”]]
-	- [[#Nine Terrors#Terror of Pain AKA “Gixses”|Terror of Pain AKA “Gixses”]]
-	- [[#Nine Terrors#Terror of Shadows AKA “Karos”|Terror of Shadows AKA “Karos”]]
-	- [[#Nine Terrors#Terror of Penance AKA “Kyella”|Terror of Penance AKA “Kyella”]]
-	- [[#Nine Terrors#Terror of Disease AKA “Fithos”|Terror of Disease AKA “Fithos”]]
-	- [[#Nine Terrors#Terror of Nightmares AKA “Anos”|Terror of Nightmares AKA “Anos”]]
-	- [[#Nine Terrors#Terror of Trickery AKA “Eas”|Terror of Trickery AKA “Eas”]]
-- [[#Humans|Humans]]
-- [[#Elves (new and ancient)|Elves (new and ancient)]]
-- [[#Fultin|Fultin]]
-- [[#Gistrix|Gistrix]]
-- [[#Quipella|Quipella]]
-- [[#Kresh|Kresh]]
-- [[#Myrian|Myrian]]
-- [[#Ashtekar|Ashtekar]]
-- [[#Fruthian|Fruthian]]
-- [[#Lylyn|Lylyn]]
-- [[#Ushvar|Ushvar]]
-- [[#Baltian|Baltian]]
-
-
-
 # Realms of Ostiver
 
 ## The Federation of Pirates
+
 ![|375](https://lh7-us.googleusercontent.com/PIeNLABGipxxhf7kH5qy7cmOf41D1xkQk2L4oNC6WDpHC1pJnSr4CI4Q5L0KKZMM-v1WF0iR_Xk4-iQgmvNTfOpXASpP9BqXV_kqlt4TcQ8LPk2zT5v3gWROIMFxWndyZ4RjTaYIqlfwlbY2etTGvKw)
 
 The Federation of Pirates is a brand new colony that has only existed for the past 25 years or so. It was founded by a powerful group of pirates who took advantage of political unrest in the Bulark Tropics to establish a lawless, pirate utopia. The government here is a stratocracy, where the strongest and most adamant leaders command respect and power. The economy revolves around piracy and trade, with the country serving as a hub for illegal goods and black market items. 
